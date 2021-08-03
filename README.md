@@ -2,7 +2,7 @@
 - 👀 I’m interested in Android Development and Web Development
 - 🌱 I’m currently learning new ways to make UI for my Apps
 - 💞️ I’m looking to collaborate on Android development 
-- 📫 reach me at aniketkomailkro@gmail.com
+- 📫 reach me at aniket.tikariha01@gmail.com
 
 <!---
 aniketatgithub/aniketatgithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
