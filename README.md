@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aniket Tikariha</h1>
 <h3 align="center">A passionate Android Developer and DevOps Engineer</h3>
 
-- 🌱 I’m currently learning **how to better optimise dockers**
-
-- 💬 Ask me about **Android TV app development and Devops Tools**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/aniket-tikariha/](https://www.linkedin.com/in/aniket-tikariha/)
 
 <h3 align="left">Connect with me:</h3>
