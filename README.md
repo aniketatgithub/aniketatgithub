@@ -1,17 +1,15 @@
 # Hi, I'm Aniket 👋
 
-I'm a Production Engineer at Meta, working on infrastructure that stays up at scale. I also contribute to the open-source projects I rely on every day.
+Production Engineer at Meta — I work on infrastructure that stays up at scale, and I contribute to the open-source projects I rely on every day.
 
-### What I'm up to
+### Open source
 
-- 🔧 Production Engineering @ Meta — reliability, scale, and keeping on-call boring
-- 🌍 Open source across the CNCF + Swift ecosystems: Prometheus, Helm, etcd, Argo CD, Moby, CoreDNS, Flux, Tailscale, Thanos, Swift toolchain…
-- 🚀 Building [Rally](https://github.com/aniketatgithub/rally) — a swipe-to-join app for filling the missing spot in real-world plans
+Active contributor across the CNCF and Swift ecosystems: Prometheus, Helm, etcd, Argo CD, Moby, CoreDNS, Flux, Tailscale, Thanos, and the Swift toolchain. Real bug fixes in real codebases — [see my PRs](https://github.com/pulls?q=is%3Apr+author%3Aaniketatgithub).
 
 ### I work with
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go,kubernetes,docker,prometheus,ts,nextjs,python,swift,linux,git" alt="Go, Kubernetes, Docker, Prometheus, TypeScript, Next.js, Python, Swift, Linux, Git" />
+  <img src="https://skillicons.dev/icons?i=go,kubernetes,docker,prometheus,python,swift,linux,git" alt="Go, Kubernetes, Docker, Prometheus, Python, Swift, Linux, Git" />
 </p>
 
 ### Stats
