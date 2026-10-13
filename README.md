@@ -3,12 +3,16 @@
 Production Engineer at Meta — I work on infrastructure that stays up at scale, and I contribute to the open-source projects I rely on every day.
 
 [![Production Engineer @ Meta](https://img.shields.io/badge/Production_Engineer-%40Meta-0866FF?logo=meta&logoColor=white)](#)
-[![Merged upstream PRs](https://img.shields.io/badge/Merged_upstream_PRs-4-brightgreen)](https://github.com/pulls?q=is%3Apr+author%3Aaniketatgithub+is%3Amerged)
+[![Merged upstream PRs](https://img.shields.io/badge/Merged_upstream_PRs-8-brightgreen)](https://github.com/pulls?q=is%3Apr+author%3Aaniketatgithub+is%3Amerged)
 [![Focus](https://img.shields.io/badge/Focus-Backend_%7C_Distributed_Systems_%7C_Swift-555555)](#)
 
 ### Open source
 
 Active contributor across the CNCF and Swift ecosystems: Prometheus, Helm, etcd, Argo CD, Moby, CoreDNS, Flux, Tailscale, Thanos, and the Swift toolchain. Real bug fixes in real codebases — [see my PRs](https://github.com/pulls?q=is%3Apr+author%3Aaniketatgithub).
+
+### Featured project
+
+**[prom-mcp](https://github.com/aniketatgithub/prom-mcp)** — an MCP server that gives AI agents production-grade eyes on Prometheus: PromQL queries, alert explanations joined with the rule that fired them, and series discovery so agents check what exists before querying. Single Go binary, on the official MCP Registry.
 
 ### I work with
 
